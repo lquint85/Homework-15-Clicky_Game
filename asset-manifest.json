@@ -1,13 +1,13 @@
 {
-  "main.css": "/click-game/static/css/main.c630e8b6.chunk.css",
-  "main.js": "/click-game/static/js/main.626472d2.chunk.js",
-  "main.js.map": "/click-game/static/js/main.626472d2.chunk.js.map",
-  "static/js/1.4a34e45d.chunk.js": "/click-game/static/js/1.4a34e45d.chunk.js",
-  "static/js/1.4a34e45d.chunk.js.map": "/click-game/static/js/1.4a34e45d.chunk.js.map",
-  "runtime~main.js": "/click-game/static/js/runtime~main.451cb879.js",
-  "runtime~main.js.map": "/click-game/static/js/runtime~main.451cb879.js.map",
-  "static/css/main.c630e8b6.chunk.css.map": "/click-game/static/css/main.c630e8b6.chunk.css.map",
-  "index.html": "/click-game/index.html",
-  "precache-manifest.e62e4b0e7274034a6fb56e2025540d58.js": "/click-game/precache-manifest.e62e4b0e7274034a6fb56e2025540d58.js",
-  "service-worker.js": "/click-game/service-worker.js"
+  "main.css": "/Homework-15-Clicky_Game/static/css/main.c630e8b6.chunk.css",
+  "main.js": "/Homework-15-Clicky_Game/static/js/main.5ee15df5.chunk.js",
+  "main.js.map": "/Homework-15-Clicky_Game/static/js/main.5ee15df5.chunk.js.map",
+  "static/js/1.4a34e45d.chunk.js": "/Homework-15-Clicky_Game/static/js/1.4a34e45d.chunk.js",
+  "static/js/1.4a34e45d.chunk.js.map": "/Homework-15-Clicky_Game/static/js/1.4a34e45d.chunk.js.map",
+  "runtime~main.js": "/Homework-15-Clicky_Game/static/js/runtime~main.1d97d589.js",
+  "runtime~main.js.map": "/Homework-15-Clicky_Game/static/js/runtime~main.1d97d589.js.map",
+  "static/css/main.c630e8b6.chunk.css.map": "/Homework-15-Clicky_Game/static/css/main.c630e8b6.chunk.css.map",
+  "index.html": "/Homework-15-Clicky_Game/index.html",
+  "precache-manifest.cb7249acf0045c1d24ea5114d2d79b6b.js": "/Homework-15-Clicky_Game/precache-manifest.cb7249acf0045c1d24ea5114d2d79b6b.js",
+  "service-worker.js": "/Homework-15-Clicky_Game/service-worker.js"
 }
