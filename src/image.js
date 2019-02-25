@@ -6,11 +6,11 @@ const images = [
     { color: "grey", name: "batman", charImg: "images/batman.png", index: 5} ,
     { color: "lightgrey", name: "batman", charImg: "images/batman.",  index: 6},
     { color: "red", name: "batman", charImg: "images/batman.jpg",  index: 7}, 
-    { color: "red", name: "batman", charImg: "images/batman.jpg", index: 8}, 
-    { color: "red", name: "batman", charImg: "images/batman.jpg",  index: 9}, 
-    { color: "red", name: "batman", charImg: "images/batman.jpg",  index: 10},
-    { color: "red", name: "batman", charImg: "images/batman.jpg", index: 11} ,
-    { color: "red", name: "batman", charImg: "images/batman.jpg", index: 12}];
+    { color: "orange", name: "batman", charImg: "images/batman.jpg", index: 8}, 
+    { color: "green", name: "batman", charImg: "images/batman.jpg",  index: 9}, 
+    { color: "navy", name: "batman", charImg: "images/batman.jpg",  index: 10},
+    { color: "lightcoral", name: "batman", charImg: "images/batman.jpg", index: 11} ,
+    { color: "yellow", name: "batman", charImg: "images/batman.jpg", index: 12}];
 
 export default images;
 
