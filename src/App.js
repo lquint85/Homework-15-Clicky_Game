@@ -2,11 +2,12 @@ import React, { Component } from "react";
 import "./App.css";
 import Header from "./components/Header";
 import Board from "./components/Board";
-import images from './image'
+import images from './image';
+
 
 class App extends Component {
   state = {
-    "message": "Click an image to start",
+    "message": "Click an image or color to start",
     "score": 0,
     "images": images, 
     "clicked": []
