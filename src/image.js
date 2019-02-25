@@ -4,13 +4,13 @@ const images = [
     { color: "purple", name: "batman", charImg: "images/batman.png", index: 3}, 
     { color: "violet", name: "batman", charImg: "images/batman.png",  index: 4}, 
     { color: "grey", name: "batman", charImg: "images/batman.png", index: 5} ,
-    { color: "lightgrey", name: "batman", charImg: "images/batman.",  index: 6}];
-    // {name: "batman", charImg: "images/batman.jpg",  index: 7}, 
-    // {name: "batman", charImg: "images/batman.jpg", index: 8}, 
-    // {name: "batman", charImg: "images/batman.jpg",  index: 9}, 
-    // {name: "batman", charImg: "images/batman.jpg",  index: 10},
-    // {name: "batman", charImg: "images/batman.jpg", index: 11} ,
-    // {name: "batman", charImg: "images/batman.jpg", index: 12}];
+    { color: "lightgrey", name: "batman", charImg: "images/batman.",  index: 6},
+    { color: "red", name: "batman", charImg: "images/batman.jpg",  index: 7}, 
+    { color: "red", name: "batman", charImg: "images/batman.jpg", index: 8}, 
+    { color: "red", name: "batman", charImg: "images/batman.jpg",  index: 9}, 
+    { color: "red", name: "batman", charImg: "images/batman.jpg",  index: 10},
+    { color: "red", name: "batman", charImg: "images/batman.jpg", index: 11} ,
+    { color: "red", name: "batman", charImg: "images/batman.jpg", index: 12}];
 
 export default images;
 
